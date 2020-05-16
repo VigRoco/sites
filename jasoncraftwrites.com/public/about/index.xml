@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Jason Craft, Creator of Worlds</title>
+    <link>http://example.org/about/</link>
+    <description>Recent content in Abouts on Jason Craft, Creator of Worlds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2020 22:24:56 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jason Craft</title>
+      <link>http://example.org/about/desc/</link>
+      <pubDate>Fri, 15 May 2020 22:24:56 -0700</pubDate>
+      
+      <guid>http://example.org/about/desc/</guid>
+      <description>&lt;p&gt;Jason Craft, writer and creator of worlds.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
